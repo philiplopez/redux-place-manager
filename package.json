@@ -1,0 +1,25 @@
+{
+  "name": "redux-place-manager",
+  "version": "0.1.0",
+  "description": "Redux-friendly router/history manager that uses the Place abstraction for a defined transition between Places (URLs).",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiplopez/redux-place-manager.git"
+  },
+  "keywords": [
+    "redux",
+    "router",
+    "place-manager",
+    "history"
+  ],
+  "author": "Philip Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philiplopez/redux-place-manager/issues"
+  },
+  "homepage": "https://github.com/philiplopez/redux-place-manager#readme"
+}

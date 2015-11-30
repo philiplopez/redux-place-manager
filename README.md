@@ -1,6 +1,6 @@
 # Overview
 
-`redux-place-manager` is a [Redux](http://redux.js.org/)-friendly router / history maanger that uses the "Place" abstraction made popular in web application development by [GWT](gwtproject.org) and the related [GWTP](https://github.com/ArcBees/GWTP) framework.
+`redux-place-manager` is a [Redux](http://redux.js.org/)-friendly router / history manager that uses the "Place" abstraction made popular in web application development by [GWT](gwtproject.org) and the related [GWTP](https://github.com/ArcBees/GWTP) framework.
 
 A `Place` is effectively a *permanent (deep) link* in the application. That is, it has a (canonical) URL. The library
 enforces a specific sequence of steps in transitioning from one Place to another, so that:
